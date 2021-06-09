@@ -1,4 +1,4 @@
-# Flatdango
+# Introduction
 
 Welcome to our flight ticketing app! You will be building out an application that allows a user to purchase flight tickets from an airline.
 
