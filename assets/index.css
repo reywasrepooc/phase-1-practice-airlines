@@ -1,0 +1,46 @@
+body {
+    background-color:#EBEBEB;
+}
+
+.heading {
+    background-color: #333333;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.airline {
+    background-color: #333333;
+    padding: 5px;
+    color: white;
+}
+
+#duration {
+    background-color: #333333;
+    color: #3E8FDE;
+    padding: 0px 0px 5px 5px;
+}
+
+.content {
+    color: #3E8FDE;
+}
+
+#subtitle {
+    color: white;
+    margin-left: 55px;
+}
+
+#flightInfo {
+    margin-left: 20px;
+}
+
+.sold-out {
+    color: lightgray;
+}
+
+img {
+    max-width: 25vw;
+}
+
+#destination {
+    padding-bottom: 15px;
+}
